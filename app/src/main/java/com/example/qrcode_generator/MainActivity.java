@@ -1,7 +1,6 @@
 package com.example.qrcode_generator;
-
+//Здесь основные зависимости проекта
 import android.os.Bundle;
-
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
